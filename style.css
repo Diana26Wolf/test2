@@ -1,0 +1,23 @@
+body{
+    background-image:url("Circles.jpg") ;
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    background-color: yellow;
+    color: blue;
+    width: fit-content;
+    text-decoration: underline;
+}
+h3{
+    color: white;
+    background-color: navy;
+    width: fit-content;
+    padding: 10px;
+    border: 3px double white;
+    font-size: 20px;
+}
+canvas{
+    background-color: #D6A2DB;
+    border: 5px double white;
+}
